@@ -18,11 +18,11 @@ Jenkins and virtualenv:
 
 ## Testing the workspace
 
-*   Set up a Ghostbot (e.g.: Jenkins &Github link) and check whether it produces results
+*   Set up a Ghostbot in Jenkins with https://github.com/ernestoab/wikibots and check whether it produces results
 
 ## Setup workingenvironment
 
-*   Set up Jenkins jobs in accordance to the original Wikibots
+*   Set up Jenkins jobs in accordance to the original Wikibots and desired GitHub repo
 
 
 ## Troubleshooting
