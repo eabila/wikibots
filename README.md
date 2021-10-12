@@ -22,8 +22,7 @@ Jenkins and virtualenv:
 
 ## Setup workingenvironment
 
-*   Set up Jenkins jobs in accordance to the original Wikibots and desired GitHub repo
-
+*   Set up Jenkins jobs in accordance to the original Wikibots (e.g with the Job Import Plugin) and the desired GitHub repo
 
 ## Troubleshooting
 
