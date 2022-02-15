@@ -7,7 +7,7 @@ This protocol is thought to guide the Jenkins instance update for the Wikidata b
 Prerequisites:
 
 *   Python (3.8 was used in our case)
-*   Pip: <br>
+*   pip: <br>
  `sudo apt-get update`<br>
  `sudo apt-get install pip`
 *   Java (e.g.: Open Java Development Kit (OpenJDK))
