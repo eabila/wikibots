@@ -7,13 +7,16 @@ This protocol is thought to guide the Jenkins instance update for the Wikidata b
 Prerequisites:
 
 *   Python (3.8 was used in our case)
+*   Pip:
+ `sudo apt-get update`
+ `sudo apt-get install pip`
 *   Java (e.g.: Open Java Development Kit (OpenJDK))
 
 
 Jenkins and virtualenv:
 *   Jenkins (https://www.jenkins.io/doc/book/installing/linux/)
 
-*   `   sudo pip install virtualenv`
+*   `sudo pip install virtualenv`
 
 
 ## Testing the workspace
