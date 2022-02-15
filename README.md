@@ -26,7 +26,7 @@ Jenkins and virtualenv:
 ## Setup working environment
 
 *   Set up Jenkins jobs in accordance to the original Wikibots (e.g.: with the [Jenkins Import Plugin](https://www.coachdevops.com/2020/06/migrate-jenkins-jobs-from-one-server-to.html)) and the desired GitHub repo
-*   
+
 
 ## Troubleshooting
 
