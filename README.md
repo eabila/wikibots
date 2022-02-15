@@ -35,6 +35,6 @@ Jenkins and virtualenv:
 *  In case "virtualenv -p python38 venv" leads to permission errors, run:
 ```
 cd /var/lib/jenkins/workspace/ 
-sudo chwon -R jenkins:jenkins *
+sudo chown -R jenkins:jenkins *
 
 ```
