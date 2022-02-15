@@ -23,7 +23,7 @@ Jenkins and virtualenv:
 
 *   Set up a Ghostbot in Jenkins with https://github.com/ernestoab/wikibots and check whether it produces results
 
-## Setup working environment
+## Import GeneWiki bots
 
 *   Set up Jenkins jobs in accordance to the original Wikibots (e.g.: with the [Jenkins Import Plugin](https://www.coachdevops.com/2020/06/migrate-jenkins-jobs-from-one-server-to.html)) and the desired GitHub repo
 
