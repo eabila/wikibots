@@ -10,7 +10,7 @@ Prerequisites:
 *   pip: <br>
  `sudo apt-get update`<br>
  `sudo apt-get install pip`
-*   Java (e.g.: Open Java Development Kit (OpenJDK))
+*   Java (e.g.: Open Java Development Kit (OpenJDK)) [see here](https://www.jenkins.io/doc/book/installing/linux/)
 
 
 Jenkins and virtualenv:
